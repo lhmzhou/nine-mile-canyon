@@ -1,0 +1,7 @@
+# vim: ft=yaml
+---
+vault:
+  url: 'https://localhost:9090'
+  token: '476ea048-ded5-4d07-opee-938c6b4e43ec'
+  ssl_verify: false
+
